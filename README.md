@@ -4,7 +4,7 @@
 <h3 align="center">A future software developer from Newfoundland</h3>
 
 <p align="left">💻 I am an aspiring software developer living in St. John's, NL. Right now, I am enrolled in the Get Coding mentorship program, learning everything I need to know about being a full stack developer.</p>
-<p align="left">🏨 Previous to pivoting to tech, my background was in hospitality and tourism.</p>
+<p align="left">🏨 My background is in hospitality & tourism, and I am currently an instructor at College of the North Atlantic.</p>
 <p align="left">🎓 My post-secondary education is in both tourism and graphic design!</p>
 <p align="left">🌲 Hiking and camping is where you can find me.</p>
 <p align="left">🎲 Unless I am playing games with friends and family</p>
