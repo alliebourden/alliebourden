@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Allie</h1>
 <h3 align="center">A software developer from Newfoundland, Canada</h3>
 
-- 💻 I am a software developer currently residing in St. John's, NL. I am currently engaged in the Get Coding mentorship program, acquiring the necessary skills and knowledge to excel as a full stack developer.
+- 💻 I am a software developer currently residing in St. John's, NL. As a student in the Get Coding mentorship program, I am acquiring the necessary skills and knowledge to excel as a full stack developer.
 - 🏨 My professional background lies in hospitality & tourism, where I work as an instructor at the College of the North Atlantic. My post-secondary studies include tourism and graphic design, bringing a diverse skill set to my pursuit of software development.
 - 🌲 I enjoy spending time outdoors hiking and camping with my family and dog, or playing games with my friends. 🎲
 
@@ -11,8 +11,8 @@
 
 <h3 align="center">🗂️ Past Projects</h3>
 
-- [FableForge](https://alliebourden.github.io/fableforge/): My first project using React/Vite. A campaign manager for Dungeon Masters, this project had extensive use of state management with the addition of OpenAI API for generation/summarization tools.
-- [GmaeGuide](https://alliebourden.github.io/gameguide/): My first coding project, written using HTML, CSS and JavaScript. Utilized an API for sorting through the top board games and adding to a local library.
+- [FableForge](https://alliebourden.github.io/fableforge/): A project built using React/Vite for my Get Coding Module Two. FableForge is a campaign manager for Game Masters running Dungeons and Dragons 5th edition. This project has extensive use of state management with the addition of OpenAI API for generation/summarization tools.
+- [GameGuide](https://alliebourden.github.io/gameguide/): My first coding project, written using HTML, CSS and JavaScript. Utilized an API for sorting through the top board games and adding to a local library.
 
 ---
 
